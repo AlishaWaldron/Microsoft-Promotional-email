@@ -1,0 +1,333 @@
+<mjml lang="en"> 
+  <mj-head> 
+  
+  <mj-attributes>
+  <mj-all font-family="Arial">
+  <mj-section padding="0">
+  </mj-attributes>
+  <mj-title>Microsoft</mj-title>
+
+    <mj-style>*{ box-sizing: border-box; } 
+       #MessageViewBody a {
+    color: inherit;
+    text-decoration: none;
+    font-size: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+}
+    
+      </mj-style>
+
+    <mj-style inline="inline">
+
+      .link-color{
+        color: #4f4f4f;
+        text-decoration: underline;
+      }
+      
+     
+
+    </mj-style>
+    </mj-head> 
+
+    <mj-body background-color="#e6e6e6">
+    <mj-wrapper>
+
+    <mj-section background-color="#fff" padding-bottom="0" padding-top="0">
+    <mj-column>
+    <mj-image href="https://www.microsoft.com/en-us/store/movies-and-tv/browse/top-rented?OCID=ema_8233372_Top_rented_Movies&WT.mc_id=PromoEmail_8233372_EC692^18393_Jan_Entertainment_Promo^en_US_01-31-23_Hero_2_MMTV"
+    alt="microsoft logo text"
+    src="https://i.postimg.cc/44b4HcQL/microsoft-logo.jpg"
+    width="250px" align="left" padding="0" >
+    </mj-image>
+    </mj-column>
+    </mj-section>
+
+
+    <mj-section padding-top="0" padding-bottom="0">
+    <mj-column>
+    <mj-image href="https://www.microsoft.com/en-us/store/movies-and-tv/browse/top-rented?OCID=ema_8233372_Top_rented_Movies&WT.mc_id=PromoEmail_8233372_EC692^18393_Jan_Entertainment_Promo^en_US_01-31-23_Hero_2_MMTV"
+    alt="two women sitting on bed with laptop in the middle"
+    src="https://i.postimg.cc/xT1Qk4C8/two-women-on-bed.jpg"
+    padding-left="0" padding-right="0" padding-top="0"  padding-bottom="0">
+    </mj-image>
+    </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="0">
+    <mj-column>
+    <mj-image href="https://www.microsoft.com/en-us/p/strange-world/8d6kgwxz1pps?OCID=ema_8233372_Strange_World&WT.mc_id=PromoEmail_8233372_EC692%5e18393_Jan_Entertainment_Promo%5een_US_01-31-23_Module_3_MMTV&activetab=pivot%3aoverviewtab"
+    alt="strange world movie cover"
+    src="https://i.postimg.cc/pL7PMJPT/strange-world-movie.jpg"
+    padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
+    </mj-image>
+    </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="0">
+    <mj-column>
+    <mj-image href="https://www.microsoft.com/en-us/p/the-woman-king/8d6kgwxztm3t?OCID=ema_8233372_The_Woman_King&WT.mc_id=PromoEmail_8233372_EC692%5e18393_Jan_Entertainment_Promo%5een_US_01-31-23_Module_4_MMTV&activetab=pivot%3aoverviewtab"
+    alt="the women king movie cover"
+    src="https://i.postimg.cc/ydCBk6gC/the-women-king.jpg"
+    padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
+    </mj-image>
+    </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0"padding-bottom="0">
+    <mj-column>
+    <mj-image href="https://www.microsoft.com/en-us/p/season-5/8d6kgwz0659q?OCID=ema_8233372_Yellowstone&WT.mc_id=PromoEmail_8233372_EC692%5e18393_Jan_Entertainment_Promo%5een_US_01-31-23_Module_5_MMTV&activetab=pivot%3aoverviewtab"
+    alt="yellowstone tv show cover"
+    src="https://i.postimg.cc/T1CX7rkT/yellowstone-movie.jpg"
+    padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
+    </mj-image>
+    </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="0">
+    <mj-column>
+    <mj-image href="https://www.microsoft.com/en-us/p/season-1/8d6kgwxzw75n?OCID=ema_8233372_Halo_Series&WT.mc_id=PromoEmail_8233372_EC692%5e18393_Jan_Entertainment_Promo%5een_US_01-31-23_Module_6_MMTV&activetab=pivot:overviewtab"
+     alt="halo season 1 tv show cover"
+     src="https://i.postimg.cc/cCmsqqJy/halo-season-1.jpg"
+    padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
+    </mj-image>
+    </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="0">
+    <mj-column>
+    <mj-image href="https://apps.microsoft.com/store/category/Entertainment?OCID=ema_8233372_Entertainment_Apps&WT.mc_id=PromoEmail_8233372_EC692^18393_Jan_Entertainment_Promo^en_US_01-31-23_Module_7_PC_apps"
+    alt="woman sitting on couch with laptop on her lap"
+    src="https://i.postimg.cc/L4TR8pmG/woman-on-couch.jpg"
+    padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
+    </mj-image>
+    </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="0">
+    <mj-column>
+    <mj-image href="https://www.microsoft.com/en-us/store/movies-and-tv/collection/animemonth/fh_animemonth2023?OCID=ema_8233372_Anime_Month&WT.mc_id=PromoEmail_8233372_EC692^18393_Jan_Entertainment_Promo^en_US_01-31-23_Module_8_MMTV&cat0=devices"
+    src="https://i.postimg.cc/KztGN3SY/drazon-ball-z.jpg" alt="dragon ball z"
+    padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
+    </mj-image>
+    </mj-column>
+    </mj-section>
+
+
+    <mj-raw>
+    <!--two column image start-->
+    </mj-raw>
+
+    <mj-section padding-top="0" padding-bottom="0">
+    <mj-group>
+    <mj-column>
+    <mj-image href="https://apps.microsoft.com/store/apps?OCID=ema_8233372&WT.mc_id=PromoEmail_8233372_EC692^18393_Jan_Entertainment_Promo^en_US_01-31-23_Nav4_12_Apps"
+    src="https://i.postimg.cc/KYMxG3Y5/surface-text.jpg" alt="surface text"
+    padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
+    </mj-image>
+    </mj-column>
+    <mj-column>
+    <mj-image href="https://apps.microsoft.com/store/apps?OCID=ema_8233372&WT.mc_id=PromoEmail_8233372_EC692^18393_Jan_Entertainment_Promo^en_US_01-31-23_Nav4_12_Apps"
+    src="https://i.postimg.cc/bwdq5BcW/small-business-text.jpg"
+    alt="small business text"
+    padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
+    </mj-image>
+    </mj-column>
+    </mj-group>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="0">
+    <mj-group>
+    <mj-column>
+    <mj-image href="https://apps.microsoft.com/store/apps?OCID=ema_8233372&WT.mc_id=PromoEmail_8233372_EC692^18393_Jan_Entertainment_Promo^en_US_01-31-23_Nav4_12_Apps"
+    src="https://i.postimg.cc/sxVr4n4n/xbox-text.jpg"
+    alt="xbox text"
+    padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
+    </mj-image>
+    </mj-column>
+    <mj-column>
+    <mj-image href="https://apps.microsoft.com/store/apps?OCID=ema_8233372&WT.mc_id=PromoEmail_8233372_EC692^18393_Jan_Entertainment_Promo^en_US_01-31-23_Nav4_12_Apps"
+    alt="apps text"
+    src="https://i.postimg.cc/KvfYwTKk/apps-text.jpg"
+    padding-left="0" padding-right="0" padding-top="0" padding-bottom="0" >
+    </mj-image>
+    </mj-column>
+    </mj-group>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="0">  
+    <mj-group>
+    <mj-column>
+    <mj-image href="https://apps.microsoft.com/store/apps?OCID=ema_8233372&WT.mc_id=PromoEmail_8233372_EC692^18393_Jan_Entertainment_Promo^en_US_01-31-23_Nav4_12_Apps"
+    src="https://i.postimg.cc/4x33g3t8/digital-games.jpg"
+    alt="digital games text"
+    padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
+    </mj-image>
+    </mj-column>
+    <mj-column>
+    <mj-image href="https://apps.microsoft.com/store/apps?OCID=ema_8233372&WT.mc_id=PromoEmail_8233372_EC692^18393_Jan_Entertainment_Promo^en_US_01-31-23_Nav4_12_Apps"
+    src="https://i.postimg.cc/X74JsLv6/deals-text.jpg"
+    alt="deals text"
+    padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
+    </mj-image>  
+    </mj-group>
+    </mj-column>
+    </mj-section> 
+    
+    <mj-raw>
+    <!--two column image start-->
+    </mj-raw>
+    
+    <mj-section padding-top="0" padding-bottom="0">
+    <mj-group>
+    <mj-column>
+    <mj-image href="https://support.microsoft.com/en-us/account-billing/shipping-options-costs-and-delivery-times-63d48e68-3fb8-6d6f-e73f-f321467d6aee?OCID=ema_8233372&WT.mc_id=PromoEmail_8233372_EC692^18393_Jan_Entertainment_Promo^en_US_01-31-23_VP1_15_Free_ship"
+    src="https://i.postimg.cc/fRgRThfM/free-shipping-van-logo.jpg"
+    alt="pencil drawing of a van"
+    padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
+    </mj-image>
+    </mj-column>
+    <mj-column>
+    <mj-image href="https://support.microsoft.com/en-us/account-billing/returning-items-you-bought-from-microsoft-for-exchange-or-refund-81629012-aa4f-f48b-2394-8596f415072b?OCID=ema_8233372&WT.mc_id=PromoEmail_8233372_EC692%5E18393_Jan_Entertainment_Promo%5Een_US_01-31-23_VP2_16_Free_returns"
+    src="https://i.postimg.cc/N03Gm7nV/free-return-box-logo.jpg"
+    alt="pencil drawing of box"
+    padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
+    </mj-image>
+    </mj-column>
+    <mj-column>
+    <mj-image href="https://support.microsoft.com/en-us/account-billing/returning-items-you-bought-from-microsoft-for-exchange-or-refund-81629012-aa4f-f48b-2394-8596f415072b?OCID=ema_8233372&WT.mc_id=PromoEmail_8233372_EC692%5E18393_Jan_Entertainment_Promo%5Een_US_01-31-23_VP2_16_Free_returns"
+    src="https://i.postimg.cc/NfdgpwVR/payment-logo.jpg"
+    alt="pencil drawing of a wallet"
+    padding-left="0" padding-right="0" padding-top="0" padding-bottom="0">
+    </mj-image>
+    </mj-group>
+    </mj-column>
+    </mj-section> 
+
+    
+<mj-section background-color="#f2f2f2"  padding-top="0"padding-bottom="0">
+      <mj-column width="95%">
+        <mj-divider border-width="2px" padding="0"
+        border-style="solid" padding-top="0" border-color="#c1bebe" />
+      </mj-column>
+    </mj-section>
+  
+
+     <mj-raw>
+    <!--social icon-->
+    </mj-raw>
+
+    <mj-section background-color="#f2f2f2"  padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-social icon-size="35px" mode="horizontal" align="left">
+          <mj-social-element name="facebook" href="https://www.facebook.com/MicrosoftStore"
+          src="https://i.postimg.cc/nLjcXw3B/facebook.png"
+          background-color="#f2f2f2"alt="facebook-logo" padding="20px">
+            
+          </mj-social-element>
+          <mj-social-element name="instagram" href="https://www.facebook.com/MicrosoftStore"
+          src="https://i.postimg.cc/BQSSTvhq/instagram.png"
+          background-color="#f2f2f2" alt="instagram-logo" padding="20px">
+           
+          </mj-social-element>
+          <mj-social-element  name="twitter" href="https://twitter.com/microsoftstore"
+          src="https://i.postimg.cc/ydhK9qcg/twitter.png"
+          background-color="#f2f2f2" alt="twitter-logo" padding="20px">
+           
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section> 
+    
+  
+
+    
+    <mj-section background-color="#f2f2f2"  padding-top="0">
+      <mj-column width="95%">
+        <mj-divider border-width="4px" padding="0"
+        border-style="solid" padding-top="0" border-color="#c1bebe" />
+      </mj-column>
+    </mj-section>  
+    
+    <mj-raw>
+    <!--footer paragraph-->
+    </mj-raw>
+    
+    <mj-section background-color="#f2f2f2"  padding-top="5px"
+    padding="30px 5px 55px">
+      <mj-column>
+        <mj-text font-size="16px" color="#4f4f4f">
+        <p><a href="https://support.microsoft.com/en-us/account-billing/shipping-options-costs-and-delivery-times-63d48e68-3fb8-6d6f-e73f-f321467d6aee" 
+         class="link-color" text-decoration="underline">
+         View in brower</a>  &nbsp;&nbsp;|&nbsp; &nbsp; 
+        <a href="https://support.microsoft.com/en-us/account-billing/shipping-options-costs-and-delivery-times-63d48e68-3fb8-6d6f-e73f-f321467d6aee" 
+        class="link-color" text-decoration="underline">  Careers</a></p>
+        </mj-text>
+
+        <mj-text font-size="16px" color="#4f4f4f" line-height="23px"
+        padding-top="0">
+        <p>Free standard shipping. Expected delivery within 3-7 business days after 
+        shipping. See  <a href="https://support.microsoft.com/en-us/account-billing/shipping-options-costs-and-delivery-times-63d48e68-3fb8-6d6f-e73f-f321467d6aee"
+        class="link-color" text-decoration="underline">webpage</a> for additional details.</p>
+        </mj-text>
+
+        <mj-text font-size="16px" color="#4f4f4f" line-height="23px"
+        padding-top="0">
+        <p>*Sale valid from 12:00 AM EST on 01/31/2023 to 11:59 PM PST on 03/02/2023 on 
+        purchases of select anime movies, anime movie bundles, and anime TV season 
+        passes through Microsoft Store. Offers valid in US and Puerto Rico only.</p>
+        </mj-text>
+
+        <mj-text font-size="16px" color="#4f4f4f" line-height="23px"
+        padding-top="0">
+        <p>System Requirements: Microsoft Movies & TV requires a broadband internet 
+        connection and a Microsoft account. The Microsoft Movies & TV app is currently
+        available only for Windows (10.X, 11), Xbox One, Xbox 360 and Xbox X/S. For 
+        Windows users (XP, Vista, 7.X, 8.X, 10.X, 11), the Microsoft Store requires: 
+        Microsoft Edge, Firefox 18+ or Chrome 24+. Eligible movies can also be watched 
+        on Movies Anywhere (available on another service).</p>
+        </mj-text>
+
+        <mj-text font-size="16px" color="#4f4f4f" line-height="23px"
+        padding-top="0">
+        <p>For Macintosh users running Windows 10.6.8+ Intel-based, the Microsoft Store 
+        requires: Safari 6.0+ and Silverlight 5+. For Macintosh users, purchases made 
+        from Microsoft Movies & TV may only be played back on supported Windows versions. 
+        If such purchases are Movies Anywhere enabled, they may also be played back on 
+        Macintosh through a Movies Anywhere-enabled service that supports the MAC platform.
+         For more service usage rules and restrictions, 
+         <a href="https://support.microsoft.com/en-us/windows/usage-rules-for-digital-goods-rules-83812b1f-1ecd-9a46-d3a7-ad1eadce49d1" 
+         class="link-color" target="_blank" text-decoration="underline"> click here.</a></p>
+        </mj-text>
+
+
+        <mj-text font-size="16px" color="#4f4f4f" line-height="23px"
+        padding-top="0">
+        <p>Apps may offer in-app purchases. See specific app terms for details.</p>
+        </mj-text>
+
+        <mj-text font-size="16px" color="#4f4f4f" line-height="23px"
+        padding-top="0" padding-bottom="0">
+        
+        <p><a href="https://account.microsoft.com/profile/unsubscribe?CTID=0" 
+        class="link-color" text-decoration="underline"> Unsubscribe</a>  |
+        <a href="https://privacy.microsoft.com/en-us/privacystatement" 
+        target="_blank" class="link-color" text-decoration="underline">Privacy Statement</a></br>
+        Microsoft Corporation</br>
+        One Microsoft Way</br>
+        Redmond, WA 98052
+
+
+        </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+
+      </mj-wrapper>
+    </mj-body>
+    
+    
+    </mjml>
